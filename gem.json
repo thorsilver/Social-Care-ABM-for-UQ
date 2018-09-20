@@ -1,0 +1,6 @@
+{    
+    "ageingParentList": [ 0.1, 0.2, 0.4, 0.8 ], 
+    "careProbList": [ 0.0004, 0.0008, 0.0012, 0.0016 ],
+    "retiredHoursList": [ 40.0, 50.0, 60.0, 70.0, 80.0 ], 
+    "retiredAgeList": [ 55.0, 60.0, 65.0, 70.0, 75.0 ]
+}

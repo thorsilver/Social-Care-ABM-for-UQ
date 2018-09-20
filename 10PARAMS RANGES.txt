@@ -1,0 +1,76 @@
+ageingParents: 0.1 - 0.8
+baseCareProb: 0.0002 - 0.0016
+retiredHours: 40 - 80
+retirementAge: 55 - 75
+personCareProb: 0.0002 - 0.0016
+maleAgeCareScaling: 10 - 25
+femaleAgeCareScaling: 10 - 25
+childHours: 1 - 10
+homeAdultHours: 5 - 50
+workingAdultHours: 5 - 40
+
+ageingParents: 0.1 - 0.39
+baseCareProb: 0.0002 - 0.00079
+retiredHours: 40 - 59
+retirementAge: 55 - 64.9
+personCareProb: 0.0002 - 0.00079
+maleAgeCareScaling: 10 - 17.5
+femaleAgeCareScaling: 10 - 17.5
+childHours: 1 - 4.9
+homeAdultHours: 5 - 27.5
+workingAdultHours: 5 - 22.5
+
+ageingParents: 0.4 - 0.8
+baseCareProb: 0.0008 - 0.0016
+retiredHours: 59 - 80
+retirementAge: 64.9 - 75
+personCareProb: 0.0008 - 0.0016
+maleAgeCareScaling: 17.5 - 25
+femaleAgeCareScaling: 17.5 - 25
+childHours: 5 - 10
+homeAdultHours: 27.5 - 50
+workingAdultHours: 22.5 - 40
+
+ageingParents: 0.1 - 0.19
+baseCareProb: 0.0002 - 0.00039
+retiredHours: 40 - 49
+retirementAge: 55 - 59.9
+personCareProb: 0.0002 - 0.00039
+maleAgeCareScaling: 10 - 13.75
+femaleAgeCareScaling: 10 - 13.75
+childHours: 1 - 2.5
+homeAdultHours: 5 - 13.75
+workingAdultHours: 5 - 11.25
+
+ageingParents: 0.2-0.39
+baseCareProb: 0.0004-0.0008
+retiredHours: 50-59
+retirementAge: 60-64.9
+personCareProb: 0.0004-0.0008
+maleAgeCareScaling: 13.75-17.5
+femaleAgeCareScaling: 13.75-17.5
+childHours: 2.5-5
+homeAdultHours: 13.75-22.5
+workingAdultHours: 11.25-17.5
+
+ageingParents: 0.4-0.59
+baseCareProb: 0.0008-0.0012
+retiredHours: 60-70
+retirementAge: 65-69.9
+personCareProb: 0.0008-0.0012
+maleAgeCareScaling: 17.5-21.25
+femaleAgeCareScaling: 17.5-21.25
+childHours: 5-7.5
+homeAdultHours: 13.75-22.5
+workingAdultHours: 11.25-17.5
+
+ageingParents: 0.6-0.8
+baseCareProb: 0.0012-0.0016
+retiredHours: 70-80
+retirementAge: 70-75
+personCareProb: 0.0012-0.0016
+maleAgeCareScaling: 21.25-25
+femaleAgeCareScaling: 21.25-25
+childHours: 7.5-10
+homeAdultHours: 22.5-50
+workingAdultHours: 17.5-40
